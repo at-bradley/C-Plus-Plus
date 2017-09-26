@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  PrataListings_4
-//
-//  Created by Thudium on 9/5/17.
-//  Copyright © 2017 Thudium. All rights reserved.
-//
-
 #include <iostream>
 using namespace std;
 
